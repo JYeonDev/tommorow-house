@@ -1,16 +1,14 @@
-@import './constants/_colors';
-@import './constants/_typography';
-@import './constants/_breakpoint';
+@import './constants/colors';
+@import './constants/typography';
+@import './constants/breakpoint';
 
-@import './base/_fonts';
-@import './base/_nomalize';
-@import './base/_reset';
+@import './base/fonts';
+@import './base/nomalize';
+@import './base/reset';
 
-@import './mixins/_text-style';
-@import './mixins/_responsive';
-@import './mixins/_positions';
+@import './mixins/text-style';
+@import './mixins/responsive';
+@import './mixins/positions';
+@import './mixins/flexbox';
 
-@import './layouts/_grid';
-
-
-
+@import './layouts/grid';
